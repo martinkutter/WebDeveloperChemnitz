@@ -10,7 +10,6 @@ Martin Kutter | Software-Designer (chemmedia AG)
 	* [lipstick](https://htmlpreview.github.io/?https://github.com/martinkutter/WebDeveloperChemnitz/blob/master/02%20-%20March%2030th/examples/lipstick/index.html)
 	* [loader](https://htmlpreview.github.io/?https://github.com/martinkutter/WebDeveloperChemnitz/blob/master/02%20-%20March%2030th/examples/loader/index.html)
 	* [pizza](https://htmlpreview.github.io/?https://github.com/martinkutter/WebDeveloperChemnitz/blob/master/02%20-%20March%2030th/examples/pizza/index.html)
-	* [pseudoelements](https://htmlpreview.github.io/?https://github.com/martinkutter/WebDeveloperChemnitz/blob/master/02%20-%20March%2030th/examples/pseudoelements/index.html)
 	* [svg](https://htmlpreview.github.io/?https://github.com/martinkutter/WebDeveloperChemnitz/blob/master/02%20-%20March%2030th/examples/svg/index.html)
 	* [tree](https://htmlpreview.github.io/?https://github.com/martinkutter/WebDeveloperChemnitz/blob/master/02%20-%20March%2030th/examples/tree/index.html)
 - - -
