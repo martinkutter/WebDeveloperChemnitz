@@ -1,6 +1,14 @@
 # WebDeveloperChemnitz
 Place to share presentation material from the monthly Web Developer Meetup in Chemnitz
 
+
+### 03 - April 27th
+#### Echtzeit Webanwendungen mit RethinkDB und Websockets
+Tobias Gall | Student TUC
+* [Presentation](https://github.com/martinkutter/WebDeveloperChemnitz/blob/master/03%20-%20April%2027th/Rethinkdb%20%26%20Websockets.pdf)
+
+
+- - -
 ### 02 - March 30th
 #### CSS Shapes & Drawing vs. SVG
 Martin Kutter | Software-Designer (chemmedia AG)
