@@ -1,3 +1,8 @@
+Deprecated, please use the new Repository https://github.com/ChemnitzerWebDevs/slides
+- - -
+- - -
+
+
 # WebDeveloperChemnitz
 Place to share presentation material from the monthly Web Developer Meetup in Chemnitz
 
